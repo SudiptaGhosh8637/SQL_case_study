@@ -28,7 +28,7 @@ This study covers the following aspects of Amazon's e-commerce platform:
 
 5.Purchase decision influencers
 
-##key
+##key Insights
 
 Product Assortment
 
