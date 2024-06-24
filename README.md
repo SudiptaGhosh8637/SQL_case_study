@@ -1,4 +1,4 @@
-#Introduction
+##Introduction
 
 This repository contains a comprehensive case study on Amazon's e-commerce platform. The study dissects Amazon's product assortment, user experience, and competitive strategies, providing insights into the factors driving customer engagement and purchase decisions.
 
@@ -28,7 +28,7 @@ This study covers the following aspects of Amazon's e-commerce platform:
 
 5.Purchase decision influencers
 
-#Key Insights
+##key
 
 Product Assortment
 
